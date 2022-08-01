@@ -27,7 +27,7 @@ The weather in Oaho is pretty stable year round as per shown by the basic statis
 
 - There is a difference in our basic stats in June (winter) where the minimum temperature is 64.0° F, almost 10°s more than the minimmum temp recorded in December at 56° F.
 
-I created histograms for both the Junde and December results in order to provide a more user friendly statiscs analysis. 
+I created histograms for both the June and December results in order to provide a more user friendly statistical analysis. 
 
 #### June Month Histograms
 
